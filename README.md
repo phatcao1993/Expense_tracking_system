@@ -12,9 +12,10 @@
 # Setup Instructions
 
 1. **Clone the repository**:
-    ```
-   git clone 
-    cd exepense-management-system
+    ```bash
+   git clone
+   https://github.com/phatcao1993/Expense_tracking_system.git
+     
    ```
 1. **Install dependencies:**:
    ```commandline
