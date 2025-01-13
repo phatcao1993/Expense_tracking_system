@@ -2,27 +2,12 @@
 ## Overview 
  The Expense Tracking System is a web application designed to help users manage their personal finances. It includes a Streamlit frontend for the user interface and a FastAPI backend for handling the server-side logic. The system allows users to track their expenses and gain insights into their financial habits.
 ## Features
-- A user-friendly expense tracking interface is built with Streamlit.
-- Fast and efficient backend powered by FastAPI.
-- Persistent data storage using MySQL.
-- Real-time updates with fast server reload and interactive frontend.
+ - A user-friendly expense tracking interface is built with Streamlit.
+ - Fast and efficient backend powered by FastAPI.
+ - Persistent data storage using MySQL.
+ - Real-time updates with fast server reload and interactive frontend.
  
 # Project Structure
-Expense_tracking_system/
-│
-├── frontend/             # Streamlit application code
-│   └── app.py            # Main Streamlit app entry point
-│
-├── backend/              # FastAPI server and database connection code
-│   └── server.py         # FastAPI app entry point
-│   └── db_connector.py   # MySQL database connection
-│
-├── tests/                # Unit tests for backend and frontend
-│   └── test_backend.py   # Tests for the backend functionality
-│   └── test_frontend.py  # Tests for frontend components
-│
-├── requirements.txt      # List of required Python packages
-└── README.md             # Project overview and setup instructions
 
  - **frontend/** : contains Streamlit applicatipn codes
  - **backend/** : contains FastAPI server , mySQL-connector-python codes
