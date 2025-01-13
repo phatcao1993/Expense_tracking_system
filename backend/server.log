@@ -1,0 +1,131 @@
+2025-01-03 12:45:25,238 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-03 12:53:31,098 - db_helper - INFO - delete expense on 2024-08-31
+2025-01-03 12:53:31,177 - db_helper - INFO - insert expense on 2024-08-31
+2025-01-03 12:53:31,202 - db_helper - INFO - insert expense on 2024-08-31
+2025-01-07 09:38:57,443 - db_helper - INFO - fetching expense on 2024-09-04
+2025-01-07 09:46:23,541 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 09:46:30,926 - db_helper - INFO - fetching expense on 2024-08-09
+2025-01-07 09:46:34,612 - db_helper - INFO - fetching expense on 2024-08-07
+2025-01-07 09:46:37,769 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 09:46:39,720 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 09:58:35,292 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 09:58:37,919 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 10:00:37,682 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 10:00:43,017 - db_helper - INFO - fetching expense on 2024-08-03
+2025-01-07 10:00:45,148 - db_helper - INFO - fetching expense on 2024-08-04
+2025-01-07 10:00:47,197 - db_helper - INFO - fetching expense on 2024-08-05
+2025-01-07 10:00:49,020 - db_helper - INFO - fetching expense on 2024-08-06
+2025-01-07 10:00:51,201 - db_helper - INFO - fetching expense on 2024-08-07
+2025-01-07 10:00:53,268 - db_helper - INFO - fetching expense on 2024-08-08
+2025-01-07 10:00:55,087 - db_helper - INFO - fetching expense on 2024-08-09
+2025-01-07 10:01:36,189 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 10:13:46,035 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 10:47:17,819 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 11:54:22,573 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 11:55:38,380 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 11:56:12,364 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 11:57:48,607 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 11:57:59,409 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:00:16,829 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:03:20,827 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:10:25,044 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:10:30,959 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:10:32,403 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:10:42,001 - db_helper - INFO - fetching expense on 2024-08-03
+2025-01-07 12:11:52,601 - db_helper - INFO - fetching expense on 2024-08-03
+2025-01-07 12:11:56,594 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:15:22,935 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:24:42,672 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:24:59,640 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:32:35,109 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-07 12:32:39,362 - db_helper - INFO - fetching expense on 2024-08-09
+2025-01-07 12:33:05,847 - db_helper - INFO - fetching expense on 2024-08-09
+2025-01-07 12:34:21,957 - db_helper - INFO - fetching expense on 2024-09-04
+2025-01-07 12:35:15,102 - db_helper - INFO - delete expense on 2024-09-10
+2025-01-07 12:35:15,158 - db_helper - INFO - insert expense on 2024-09-10
+2025-01-07 12:40:11,208 - db_helper - INFO - fetching expense on 2024-08-09
+2025-01-07 12:40:13,743 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:40:19,953 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:42:18,511 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:42:20,954 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:42:21,020 - db_helper - INFO - delete expense on 2024-08-01
+2025-01-07 12:42:21,062 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:42:21,095 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:42:21,122 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:42:21,149 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:43:32,710 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-07 12:43:32,781 - db_helper - INFO - delete expense on 2024-08-01
+2025-01-07 12:43:32,820 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:43:32,853 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:43:32,882 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:43:32,909 - db_helper - INFO - insert expense on 2024-08-01
+2025-01-07 12:47:26,849 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-07 12:47:38,270 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-07 12:47:38,339 - db_helper - INFO - delete expense on 2024-08-10
+2025-01-07 12:47:38,370 - db_helper - INFO - insert expense on 2024-08-10
+2025-01-07 12:58:00,096 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-07 16:15:51,818 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-07 19:36:23,102 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-07 19:37:51,101 - db_helper - INFO - fetching expense on 2024-08-10
+2025-01-09 12:50:24,809 - db_helper - INFO - fetching expense on 2024-09-04
+2025-01-09 13:05:20,187 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024_08-06
+2025-01-09 13:05:25,883 - db_helper - INFO - fetching expense summary from 2024-08-03 to 2024-08-08
+2025-01-09 13:05:25,910 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024_08-06
+2025-01-09 14:17:18,907 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:19:23,712 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:30:22,396 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:30:32,846 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:31:01,780 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:31:23,803 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:37:53,033 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:38:15,805 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:39:31,661 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-09 14:43:24,614 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-10 11:22:06,822 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:22:14,055 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-10 11:24:35,507 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-10 11:25:10,431 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-10 11:34:30,861 - db_helper - INFO - fetching expense on 2024-08-02
+2025-01-10 11:35:50,110 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:35:53,111 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:35:53,794 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:36:18,018 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
+2025-01-10 11:36:32,428 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:37:02,719 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:37:02,800 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:38:18,143 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:38:18,216 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:38:19,682 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:38:19,757 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:39:15,868 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:39:15,944 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:52:59,614 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:53:01,118 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:53:01,190 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 11:59:19,857 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:59:21,443 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-10 11:59:21,504 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-10 12:04:47,425 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-11 09:34:21,289 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-11 09:34:21,364 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-03
+2025-01-12 15:39:48,930 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-12 15:39:56,527 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-12 15:39:56,592 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-02
+2025-01-12 15:49:04,956 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-12 15:53:22,430 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-12 15:59:09,382 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:34:50,523 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:35:50,843 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:36:38,069 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:39:15,243 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:40:24,290 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:41:03,176 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:43:03,851 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:43:04,784 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:43:04,848 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-05
+2025-01-13 09:45:43,947 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 09:45:57,497 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 11:30:33,826 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 11:30:39,663 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 11:30:40,499 - db_helper - INFO - fetching expense on 2024-08-01
+2025-01-13 11:30:40,564 - db_helper - INFO - fetching expense summary from 2024-08-01 to 2024-08-06
